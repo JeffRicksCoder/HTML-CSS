@@ -1,0 +1,15 @@
+#number-one, #number-two {
+    color: blue
+}
+#number-two{
+    font-size: 20px;
+}
+.first-class {
+    color: hotpink
+}
+p, h1{
+    color:red
+}
+.second-class {
+    text-decoration: underline;
+}

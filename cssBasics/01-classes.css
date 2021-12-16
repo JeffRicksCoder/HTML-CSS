@@ -1,0 +1,18 @@
+body {
+    background color:yellow
+    }
+
+    .css-class {
+        background-color: lightgray;
+    }
+    /*rule set #3: All h1 tags within the cdd-class class will have orangered font 16 pixels high. */
+    .css-class p {
+        font-size: 16px;
+        color: orangered;
+    }
+
+    /*rule set #5: All the li items within the css-class class will have a blue font. */
+    .css-class li {
+        color: navy;
+    }
+    
