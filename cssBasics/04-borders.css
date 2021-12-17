@@ -1,0 +1,49 @@
+body {
+    background-color: lightblue;
+}
+.wrapper {
+    margin: 5px;
+}
+h1 {
+   color: blue; 
+   text-align: center;
+}
+#title-p {
+    text-align: center;
+}
+h3 {
+    text-decorations: underline;
+}
+.border-style li {
+    margin: 5px;
+}
+.border-style li:nth-child(1) {
+    border-style: dotted;
+}
+.border-style li:nth-child(2) {
+    border-style: dashed;
+}
+.border-style li:nth-child(3) {
+    border-style: solid;
+}
+.border-style li:nth-child(4) {
+    border-style: dotted;
+}
+.border-style li:nth-child(5) {
+    border-style: START HERE dotted;
+}
+.border-style li:nth-child(6) {
+    border-style: dotted;
+}
+.border-style li:nth-child(7) {
+    border-style: dotted;
+}
+.border-style li:nth-child(8) {
+    border-style: dotted;
+}
+.border-style li:nth-child(9) {
+    border-style: dotted;
+}
+.border-style li:nth-child(10) {
+    border-style: dotted;
+}
